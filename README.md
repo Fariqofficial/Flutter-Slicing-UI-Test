@@ -1,16 +1,22 @@
-# slicing_ui_test
+## Features
+1. OnBoarding Screen
+2. Sign Up Screen
+3. Dashboard Screen (With Listview "Hardcode" data and Clean Code)
 
-A new Flutter project.
+## Installation Instructions
+1. Clone repository ini
+```bash
+git clone https://github.com/username/imperial-article.git
+cd flutter_slicing_ui_test
+```
+2. Install dependencies
+```bash
+flutter clean
+flutter pub get
+```
 
-## Getting Started
+## How to Run
+```bash
+flutter run
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
